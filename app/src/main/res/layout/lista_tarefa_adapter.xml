@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <FrameLayout android:layout_width="match_parent" android:layout_height="50dp"
+        android:background="@drawable/lista_shape"
+        android:layout_margin="10dp"
+        android:elevation="2dp">
+
+        <TextView
+            android:id="@+id/textNomeTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Estudar Android"
+            android:layout_margin="5dp"/>
+
+        <TextView
+            android:id="@+id/textDataTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_margin="5dp"
+            android:text="16:04"
+            android:textSize="12sp" />
+
+    </FrameLayout>
+
+
+</LinearLayout>
