@@ -7,4 +7,5 @@ Dentre os meus conhecimentos praticados e aperfeiçoados na criação deste app,
 - Uso de abas (TabLayout)
 - Manipulação de datas
 - Banco de dados interno SQLite
+- Uso e interação de RecyclerViews
 - Etc
