@@ -13,3 +13,4 @@ Dentre os meus conhecimentos praticados e aperfeiçoados na criação deste app,
 # Screenshots
 ![Tela inicial - Lista de tarefas](screen1.jpg)
 ![Adicionando nova tarefa](screen2.jpg)
+![Excluindo tarefa](screen3.jpg)
