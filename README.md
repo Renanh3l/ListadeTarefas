@@ -9,3 +9,7 @@ Dentre os meus conhecimentos praticados e aperfeiçoados na criação deste app,
 - Banco de dados interno SQLite
 - Uso e interação de RecyclerViews
 - Etc
+
+# Screenshots
+![Tela inicial - Lista de tarefas](screen1.jpg)
+![Adicionando nova tarefa](screen2.jpg)
